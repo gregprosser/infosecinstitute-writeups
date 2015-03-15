@@ -44,3 +44,16 @@ If we compare this to the original file, we can see some comments are now missin
    <script src="js/bootstrap.min.js"></script>
    <script src="js/custom.js"></script>
 ```
+
+So, let's fetch the mysterious file!
+
+```shell
+$ curl -s -O http://ctf.infosecinstitute.com/misc/imadecoy
+$ file imadecoy
+imadecoy: tcpdump capture file (little-endian) - version 2.4 (Linux "cooked", capture length 65535)
+$
+```
+
+Cool, a tcpdump file.  TCPDUMP is a *ix utility that allows you to snoop on network traffic on a machine.  We can open this file in [Wireshark](https://www.wireshark.org/).
+
+## Wireshark
