@@ -13,7 +13,7 @@ It's not obvious from the introductory documentation, but it appears the "flag"s
 These write-ups were all written by Greg Prosser, https://github.com/gregnprosser .
 
 Level | Writeup   | Finished
---------------------------
+----- | --------- | --------
 1     | (level1)  | X
 2     | (level2)  | X
 3     | (level3)  | X
