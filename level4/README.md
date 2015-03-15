@@ -39,7 +39,7 @@ $
 
 Notice the `Set-Cookie` header.  The underscores make this look like the flags from the earlier levels...
 
-Using a utility like `tr` (to translate letters), if we start by assuming "vasbfrp" is "infosec", we can see we're on to something:
+Using a utility like `tr` (to translate letters), if we start by assuming "vasbfrp_syntvf" is "infosec_flagis", we can see we're on to something:
 
 ```shell
 $ echo "fusrodah=vasbfrp_syntvf_jrybirpbbxvrf" | tr "vasbfrp_syntvf" "INFOSEC_FLAGIS"
