@@ -12,4 +12,4 @@ It's not obvious from the introductory documentation, but it appears the "flag"s
 
 These write-ups were all written by Greg Prosser, https://github.com/gregnprosser .
 
-[Level 1](level1/README.md)
+[Level 1](level1)
