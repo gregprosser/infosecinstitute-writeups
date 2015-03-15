@@ -12,18 +12,20 @@ It's not obvious from the introductory documentation, but it appears the "flag"s
 
 These write-ups were all written by Greg Prosser, https://github.com/gregnprosser .
 
-[Level 1](level1)
-[Level 2](level2)
-[Level 3](level3)
-[Level 4](level4)
-Level 5
-Level 6
-[Level 7](level7)
-Level 8
-Level 9
-Level 10
-Level 11
-Level 12
-[Level 13](level13)
-Level 14
-[Level 15](level15)
+Level | Writeup   | Finished
+--------------------------
+1     | (level1)  | X
+2     | (level2)  | X
+3     | (level3)  | X
+4     | (level4)  | X
+5     |           |
+6     |           |
+7     | (level7)  | X
+8     |           |
+9     |           |
+10    |           |
+11    |           |
+12    |           |
+13    | (level13) | X
+14    |           |
+15    | (level15) |
