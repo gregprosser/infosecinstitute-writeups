@@ -29,3 +29,9 @@ These write-ups were all written by Greg Prosser, https://github.com/gregnprosse
 * [Level 13](level13) ([original link](http://ctf.infosecinstitute.com/levelthirteen.php))
 * [Level 14](level14) ([original link](http://ctf.infosecinstitute.com/levelfourteen.php))
 * [Level 15](level15) (possibly unfinished) ([original link](http://ctf.infosecinstitute.com/levelfifteen/))
+
+## Bonus
+
+It's perhaps worth metioning that since Level 15 is an arbitrary command injection, it is trivial to use various commands to extract the entire set of PHP files for previous levels - in case that's interesting.
+
+This can also be used to solve Level 9 without solving the actual challenge: the username and password are stored within the source code.
