@@ -34,7 +34,6 @@ $ curl -s -v http://ctf.infosecinstitute.com/levelfour.php -o /dev/null
 <
 { [data not shown]
 * Connection #0 to host ctf.infosecinstitute.com left intact
-$
 ```
 
 Notice the `Set-Cookie` header.  The underscores make this look like the flags from the earlier levels...
@@ -50,11 +49,10 @@ $
 This doesn't get us very far, however, as we're running out of clues.  It was at this point I remember that another common *ix trick is rotating an alphabet my 13 characters, so called [ROT13](http://en.wikipedia.org/wiki/ROT13).  Sure enough, all the characters we've found so far are 13 characters apart.  Using `tr` with our new information, we can decode the entire string:
 
 ```shell
-$ echo "fusrodah=vasbfrp_syntvf_jrybirpbbxvrf" | tr "n-za-m" "A-Z"
-SHFEBQNU=INFOSEC_FLAGIS_WELOVECOOKIES
-$
+$ echo "fusrodah=vasbfrp_syntvf_jrybirpbbxvrf" | tr "n-za-m" "a-z"
+shfebqnu=infosec_flagis_welovecookies
 ```
 
 ## Flag
 
-INFOSEC_FLAGIS_WELOVECOOKIES
+`infosec_flagis_welovecookies`
