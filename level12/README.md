@@ -1,6 +1,6 @@
 # Level 12
 
-## Descrption
+## Description
 
 ## Solution
 

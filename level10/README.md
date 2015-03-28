@@ -1,6 +1,6 @@
 # Level 10
 
-## Descrption
+## Description
 
 ## Solution
 
