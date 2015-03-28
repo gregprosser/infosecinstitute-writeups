@@ -2,7 +2,7 @@
 
 ## Description
 
-The introductory page contains a large [QR code](http://en.wikipedia.org/wiki/QR_code), which is obvious by the alignment boxes around the image and a progress bar.
+The introductory page contains a large [QR code](http://en.wikipedia.org/wiki/QR_code) (which is obvious by the alignment boxes around the image, and the black and white patterning) and a progress bar.
 
 ## Solution
 
@@ -18,4 +18,4 @@ Putting this text into a [morse code decoder](http://morsecode.scphillips.com/tr
 
 ## Flag
 
-INFOSECFLAGISMORSING
+`INFOSECFLAGISMORSING`
