@@ -42,6 +42,8 @@ Because the character set contains only alphabetic numbers and the symbol '+', t
 
 The next segment of this write-up was done in an IPython notebook, so follow [this link](http://nbviewer.ipython.org/github/gregnprosser/infosecinstitute-writeups/blob/master/level15/Mock-Base64.ipynb).
 
+## Continues over [here](http://nbviewer.ipython.org/github/gregnprosser/infosecinstitute-writeups/blob/master/level15/Mock-Base64.ipynb)
+
 ## Flag
 
-`Miux+mT6Kkcx+IhyMjTFnxT6KjAa+i6ZLibC`
+`infosec_flagis_rceatomized`
