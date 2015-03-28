@@ -1,6 +1,6 @@
 # Level 11
 
-## Descrption
+## Description
 
 This page contains nothing but a (what looks to be) corrupted image of the logo for the PHP programming language.
 
