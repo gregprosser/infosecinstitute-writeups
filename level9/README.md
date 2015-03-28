@@ -10,6 +10,8 @@ If we search Google for "Cisco IDS default password", the first hit summary ment
 
 If we enter `root` in the username field and `attack`, we get a popup that says: `ssaptluafed_sigalf_cesofni`, which if we reverse gives us our flag.
 
+Also, as mentioned in the *Bonus* section in the top level write-up, you can use `level15` to solve this level by viewing the source code of the page.
+
 ## Flag
 
 `infosec_flagis_defaultpass`
