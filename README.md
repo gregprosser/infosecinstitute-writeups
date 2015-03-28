@@ -23,7 +23,7 @@ These write-ups were all written by Greg Prosser, https://github.com/gregnprosse
 * [Level 7](level7) ([original link](http://ctf.infosecinstitute.com/404.php))
 * [Level 8](level8) ([original link](http://ctf.infosecinstitute.com/leveleight.php))
 * [Level 9](level9) ([original link](http://ctf.infosecinstitute.com/levelnine.php))
-* [Level 10](level10) (in progress) ([original link](http://ctf.infosecinstitute.com/levelten.php))
+* [Level 10](level10) ([original link](http://ctf.infosecinstitute.com/levelten.php))
 * [Level 11](level11) ([original link](http://ctf.infosecinstitute.com/leveleleven.php))
 * [Level 12](level12) (in progress) ([original link](http://ctf.infosecinstitute.com/leveltwelve.php))
 * [Level 13](level13) ([original link](http://ctf.infosecinstitute.com/levelthirteen.php))
