@@ -40,6 +40,8 @@ Because the character set contains only alphabetic numbers and the symbol '+', t
 "'2+\\xb1\\xfad\\xfa*G1\\xf8\\x88r24\\xc5\\x9f\\x14\\xfa*0\\x1a\\xfa.\\x99.&\\xc2'"
 ```
 
+The next segment of this write-up was done in an IPython notebook, so follow [this link](http://nbviewer.ipython.org/github/gregnprosser/infosecinstitute-writeups/blob/master/level15/Mock-Base64.ipynb)
+
 ## Flag
 
 `Miux+mT6Kkcx+IhyMjTFnxT6KjAa+i6ZLibC`
