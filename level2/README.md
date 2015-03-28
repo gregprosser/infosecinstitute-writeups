@@ -25,7 +25,6 @@ Going back to our friend cURL, if we fetch the image we can immediately see this
 ```shell
 $ curl -s http://ctf.infosecinstitute.com/img/leveltwo.jpeg
 aW5mb3NlY19mbGFnaXNfd2VhcmVqdXN0c3RhcnRpbmc=
-$
 ```
 
 To most experienced hackers, this should be immediately recognizable as a base64 string.  The lack of characters other than letters and numbers and = is a dead giveaway.
@@ -46,4 +45,4 @@ $
 
 ## Flag
 
-infosec_flagis_wearejuststarting
+`infosec_flagis_wearejuststarting`
