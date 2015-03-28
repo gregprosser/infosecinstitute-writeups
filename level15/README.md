@@ -30,7 +30,15 @@ Sure enough, if we use `foo >/dev/null && cat .hey` we see:
 Miux+mT6Kkcx+IhyMjTFnxT6KjAa+i6ZLibC
 ```
 
-This may or may not be the flag for this level.  It's possible this is some sort of enciphered or hashed value, as it doesn't match our pattern of `infosec_flagis_XXX`.  I haven't found anywhere further to take this string, however, so far.
+This doesn't seem to match the format of previous flags, so I'm assuming that this is not the flag for this level.
+
+Because the character set contains only alphabetic numbers and the symbol '+', this looks a lot like a [Base64](http://en.wikipedia.org/wiki/Base64) encoded string, however trying to decode this results in gibberish.
+
+```python
+>>> import base64
+>>> repr(base64.b64decode('Miux+mT6Kkcx+IhyMjTFnxT6KjAa+i6ZLibC'))
+"'2+\\xb1\\xfad\\xfa*G1\\xf8\\x88r24\\xc5\\x9f\\x14\\xfa*0\\x1a\\xfa.\\x99.&\\xc2'"
+```
 
 ## Flag
 
