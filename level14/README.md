@@ -6,7 +6,7 @@ A rather bland page asking if I'd like to download level14 file.  Well, OK, gues
 
 ## Solution
 
-Downloading this file and examining it, it looks like a database dump from a MySQL database.  Lets look at the table names:
+Downloading this file and examining it, it looks like a database dump from a MySQL database.  Let's look at the table names:
 
 ```shell
 $ grep 'CREATE TABLE' level14
@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS `wp_usermeta` (
 $
 ```
 
-Perhaps this is too obvious!  Lets check out the `flag?` table.
+Perhaps this is too obvious!  Let's check out the `flag?` table.
 
 ```sql
 INSERT INTO `flag?` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`, `user_url`, `user_registered`, `user_activation_key`, `user_status`, `display_name`) VALUES
