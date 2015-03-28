@@ -6,7 +6,7 @@ http://ctf.infosecinstitute.com/
 
 ## Hints
 
-It's not obvious from the introductory documentation, but it appears the "flag"s for these levels are all in the format of: `infosec_flagis_XXX` where XXX is a string.
+It's not obvious from the introductory documentation, but it appears the flags for these levels are all in the format of: `infosec_flagis_XXX` where XXX is a string.
 
 ## Author
 
