@@ -1,6 +1,6 @@
 # Overview
 
-This respository contains walkthroughs and/or write-ups of the levels for the InfoSec Institute CTF 2015.
+This repository contains walkthroughs and/or write-ups of the levels for the InfoSec Institute CTF 2015.
 
 http://ctf.infosecinstitute.com/
 
